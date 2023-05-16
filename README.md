@@ -1,2 +1,2 @@
-# CrowdFunnfing
+# CrowdFunding
 Entire proj
